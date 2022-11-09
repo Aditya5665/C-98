@@ -1,0 +1,5 @@
+a = open("script.txt")
+b = a.read()
+print(b)
+c = b.split("#")
+print(c)
